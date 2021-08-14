@@ -1,0 +1,29 @@
+.menu{
+    background-color: yellow;
+}
+.about{
+    padding: 40px 0px;
+}
+.about h1{
+    margin: 20px;
+    background-color: teal;
+    color:white;
+}
+.contain{
+    padding-top: 20px;
+    font-size: 32px;
+    text-align: justify;
+}
+.gallery{
+    padding: 40px 0;
+}
+.gallery h1{
+    margin: 20px;
+    background-color: teal;
+    color: white
+}
+.container p{
+    font-size: 20px;
+    background-color: teal;
+    color: white;
+}
